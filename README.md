@@ -32,5 +32,13 @@ Request Body -
 
 ![image](https://user-images.githubusercontent.com/13203059/162638533-dd822120-9c9c-4b25-a672-1cec73c23572.png)
 
+# References
+
+https://www.youtube.com/watch?v=Q10vhymrGh4&ab_channel=DataScienceOnAWS
+
+https://github.com/philschmid/serverless-bert-huggingface-aws-lambda-docker
+
+https://towardsdatascience.com/serverless-bert-with-huggingface-and-aws-lambda-625193c6cc04
+
 
 
