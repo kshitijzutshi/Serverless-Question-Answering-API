@@ -1,7 +1,2 @@
-# https://download.pytorch.org/whl/cpu/torch-1.5.0%2Bcpu-cp38-cp38-linux_x86_64.whl
-# torch-1.11.0-cp39-none-macosx_10_9_x86_64.whl
-# torch
-# transformers
-
-torch==1.11.0
-transformers==4.18.0
+https://download.pytorch.org/whl/cpu/torch-1.5.0%2Bcpu-cp38-cp38-linux_x86_64.whl 
+transformers==3.4.0
